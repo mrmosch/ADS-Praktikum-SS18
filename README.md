@@ -1,4 +1,4 @@
-#Algorithmen und Datenstrukturen SS18
+# Algorithmen und Datenstrukturen SS18
 
 Praktikumsaufgaben ADS SS18
 
